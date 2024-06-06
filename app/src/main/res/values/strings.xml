@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeTinder</string>
+    <string name="USER_EMAIL_KEY">rafael.arce@tecsup.edu.pe</string>
+    <string name="user_email">user_email</string>
+    <string name="user_password">user_password</string>
+    <string name="start_session">start_session</string>
+    <string name="register_me">register_me</string>
+</resources>
